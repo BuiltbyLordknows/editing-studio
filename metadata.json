@@ -1,0 +1,6 @@
+{
+  "name": "CineCut AI — Intelligent Video Studio & Editor",
+  "description": "Upload, trim, edit, and enhance videos with multi-track timeline, AI auto-captions, cinematic color grading, viral hooks, and real-time browser export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
